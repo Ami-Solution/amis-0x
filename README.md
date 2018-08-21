@@ -1,4 +1,4 @@
-![logo](https://github.com/amisolution/ERC20-AMIS/blob/master/images/amis.jpg)
+![logo](https://github.com/amisolution/ERC20-AMIS/blob/master/amis-logo3.png)
 
 ### [what is amis-0x](https://amisolution.github.com/ERC20-AMIS/)
 Build on 0x protocol.
