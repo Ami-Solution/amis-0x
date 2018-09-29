@@ -7,3 +7,11 @@ Build on 0x protocol.
 
 ## Notice
 This is an experimental project
+
+## Current issue
+After building the packages we get :  
+```
+you are listening to port 58887
+
+mysql db unable to connect: Error: connect ECONNREFUSED 127.0.0.1:3306
+```
